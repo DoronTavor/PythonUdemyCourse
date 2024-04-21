@@ -1,0 +1,2 @@
+# VARIABLES
+iq = 190
